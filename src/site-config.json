@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Dantex Electrical Contractors",
+    "phone": "+19152078240",
+    "category": "electrician",
+    "city": "El Paso",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "El Paso's Trusted Electricians",
+      "heroSubline": "Reliable electrical services for homes and businesses across El Paso. Licensed, insured, and ready to tackle any job, big or small.",
+      "aboutTitle": "Powering El Paso for Over a Decade",
+      "aboutText": [
+        "Dantex Electrical Contractors started with a simple mission: to provide honest and reliable electrical services to our neighbors in El Paso. Founded by a master electrician with deep roots in the community, we've grown from a small operation to a trusted name in residential and commercial electrical work.",
+        "We believe in doing things the right way, every time. That means using quality materials, employing skilled technicians, and adhering to the highest safety standards. Our commitment to excellence ensures your electrical systems are safe, efficient, and built to last.",
+        "El Paso is our home, and we're dedicated to giving back. We actively support local initiatives and organizations, striving to make our community a better place to live and work. When you choose Dantex Electrical Contractors, you're choosing a company that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Technicians",
+          "description": "Our licensed and experienced electricians possess the skills and knowledge to handle any electrical challenge."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No surprises. We provide clear and detailed estimates before any work begins, so you know exactly what to expect."
+        },
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Electrical emergencies don't wait, and neither do we. We're available around the clock to address urgent issues."
+        },
+        {
+          "title": "Quality Workmanship",
+          "description": "We stand behind our work with a satisfaction guarantee. Your safety and peace of mind are our top priorities."
+        }
+      ],
+      "ctaHeadline": "Get a Free Electrical Estimate",
+      "ctaSubline": "Contact Dantex Electrical Contractors today for reliable electrical solutions in El Paso."
+    },
+    "services": [
+      {
+        "slug": "electrical-repair",
+        "name": "Electrical Repair Services",
+        "shortDescription": "Fast, reliable electrical repairs for your home or business in El Paso.",
+        "description": "Dantex Electrical Contractors provides comprehensive electrical repair services to address any issue you may encounter. From flickering lights and faulty outlets to complete power outages, our experienced electricians have the expertise to diagnose and resolve problems quickly and efficiently. We understand the importance of a safe and functional electrical system, especially given El Paso's climate, where reliable AC power is crucial during the hot summer months. We handle everything from minor repairs in older Kern Place homes to complex wiring issues in newer suburban developments. \n\nOur team uses advanced diagnostic tools to pinpoint the source of the problem and implement lasting solutions. We prioritize safety and adhere to all local electrical codes. Whether you need a simple outlet replacement or a complete rewiring of your home, you can trust Dantex Electrical Contractors to deliver professional and dependable service.\n\nWe also offer 24/7 emergency repair services for urgent situations that require immediate attention. Don't risk electrical hazards – call Dantex Electrical Contractors for prompt and reliable electrical repairs in El Paso.",
+        "process": [
+          "Step 1: Contact us to schedule a service appointment.",
+          "Step 2: Our electrician will arrive on time and assess the electrical issue.",
+          "Step 3: We'll provide you with a clear and detailed estimate for the repair.",
+          "Step 4: Upon your approval, we'll complete the repair efficiently and safely."
+        ],
+        "benefits": [
+          "Fast and reliable service",
+          "Experienced and licensed electricians",
+          "Upfront pricing with no hidden fees",
+          "24/7 emergency service available"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an electrical emergency?",
+            "answer": "We offer 24/7 emergency service and strive to respond to urgent calls as quickly as possible, typically within the hour."
+          },
+          {
+            "question": "Are your electricians licensed and insured?",
+            "answer": "Yes, all of our electricians are fully licensed and insured, ensuring your protection and peace of mind."
+          },
+          {
+            "question": "Do you offer a warranty on your repairs?",
+            "answer": "Yes, we stand behind our work with a satisfaction guarantee. We offer warranties on parts and labor for all repairs."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-installation",
+        "name": "Electrical Installation Services",
+        "shortDescription": "Professional electrical installations for new construction and remodeling projects.",
+        "description": "Dantex Electrical Contractors specializes in electrical installation services for residential and commercial properties in El Paso. Whether you're building a new home, remodeling an existing space, or adding new electrical components, our skilled electricians can handle all your installation needs. We understand the unique challenges presented by El Paso's climate and housing styles, from ensuring proper grounding in adobe homes to installing energy-efficient lighting in modern buildings.\n\nOur installation services include wiring, lighting, outlets, switches, panels, and more. We work closely with homeowners, contractors, and builders to ensure that all installations meet local codes and regulations. We also offer customized solutions to meet your specific requirements and budget.\n\nFrom installing new ceiling fans to upgrading your entire electrical panel, Dantex Electrical Contractors provides reliable and professional installation services that you can trust. We use high-quality materials and employ industry-best practices to ensure that your electrical systems are safe, efficient, and built to last.",
+        "process": [
+          "Step 1: Consultation to discuss your installation needs and project requirements.",
+          "Step 2: Detailed planning and design of the electrical system.",
+          "Step 3: Professional installation by our licensed electricians.",
+          "Step 4: Thorough testing and inspection to ensure safety and functionality."
+        ],
+        "benefits": [
+          "Expert installation by licensed electricians",
+          "Compliance with local codes and regulations",
+          "Customized solutions to meet your needs",
+          "Use of high-quality materials and equipment"
+        ],
+        "faq": [
+          {
+            "question": "Do you handle electrical installations for new construction projects?",
+            "answer": "Yes, we have extensive experience in providing electrical installation services for new construction projects of all sizes."
+          },
+          {
+            "question": "Can you help with energy-efficient lighting upgrades?",
+            "answer": "Absolutely! We can recommend and install energy-efficient lighting solutions to help you save money on your electricity bills."
+          },
+          {
+            "question": "How long does it take to complete a typical electrical installation?",
+            "answer": "The duration of an installation project depends on the scope and complexity of the work involved. We'll provide you with a realistic timeline during the consultation phase."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-services",
+        "name": "Lighting Services",
+        "shortDescription": "Enhance your home or business with our expert lighting solutions.",
+        "description": "Dantex Electrical Contractors offers a wide range of lighting services to enhance the beauty, functionality, and energy efficiency of your home or business in El Paso. From recessed lighting and track lighting to landscape lighting and security lighting, we can design and install customized lighting solutions to meet your needs and preferences. We understand the importance of proper lighting in creating a comfortable and inviting atmosphere, especially in El Paso's unique desert environment.\n\nOur lighting services include design, installation, repair, and maintenance. We work with a variety of lighting fixtures and technologies, including LED lighting, which is energy-efficient and long-lasting. Whether you want to create a warm and inviting ambiance in your living room or improve security around your property, Dantex Electrical Contractors can help.\n\nWe also offer lighting control systems that allow you to adjust the brightness and color of your lights with the touch of a button. These systems can help you save energy and create different moods for different occasions. Let Dantex Electrical Contractors illuminate your life with our expert lighting services in El Paso.",
+        "process": [
+          "Step 1: Consultation to discuss your lighting needs and preferences.",
+          "Step 2: Design of a customized lighting plan.",
+          "Step 3: Professional installation of lighting fixtures and controls.",
+          "Step 4: Testing and adjustment to ensure optimal performance."
+        ],
+        "benefits": [
+          "Customized lighting solutions",
+          "Energy-efficient lighting options",
+          "Improved aesthetics and functionality",
+          "Enhanced security and safety"
+        ],
+        "faq": [
+          {
+            "question": "Can you help me choose the right lighting fixtures for my home?",
+            "answer": "Yes, we can provide expert advice on selecting the best lighting fixtures to complement your home's style and meet your lighting needs."
+          },
+          {
+            "question": "Do you offer outdoor lighting services?",
+            "answer": "Yes, we specialize in outdoor lighting, including landscape lighting, security lighting, and patio lighting."
+          },
+          {
+            "question": "What are the benefits of LED lighting?",
+            "answer": "LED lighting is energy-efficient, long-lasting, and provides excellent light quality. It can also help you save money on your electricity bills."
+          }
+        ]
+      },
+      {
+        "slug": "panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Ensure your home's safety with an electrical panel upgrade.",
+        "description": "Dantex Electrical Contractors specializes in electrical panel upgrades for homes and businesses in El Paso. An outdated or overloaded electrical panel can pose a serious safety hazard, increasing the risk of electrical fires and power outages. If your panel is old, damaged, or unable to handle the electrical demands of your modern lifestyle, it's time for an upgrade. Given the prevalence of older homes in neighborhoods like Sunset Heights, many properties are due for an upgrade to handle modern electrical demands. \n\nOur licensed electricians can assess your current electrical panel and recommend the appropriate upgrade to meet your needs. We'll install a new panel that is properly sized to handle your electrical load, ensuring the safety and reliability of your electrical system. We handle all aspects of the upgrade process, from obtaining permits to disconnecting and reconnecting your power.\n\nDon't wait until it's too late – protect your home and family with an electrical panel upgrade from Dantex Electrical Contractors. We provide professional and reliable service at a competitive price.",
+        "process": [
+          "Step 1: Assessment of your current electrical panel.",
+          "Step 2: Recommendation of the appropriate panel upgrade.",
+          "Step 3: Obtaining necessary permits and approvals.",
+          "Step 4: Professional installation of the new electrical panel."
+        ],
+        "benefits": [
+          "Improved safety and reliability",
+          "Increased electrical capacity",
+          "Compliance with local codes and regulations",
+          "Protection against electrical fires and power outages"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need an electrical panel upgrade?",
+            "answer": "Signs that you may need an upgrade include frequent tripped breakers, flickering lights, and difficulty running multiple appliances at the same time."
+          },
+          {
+            "question": "How long does it take to upgrade an electrical panel?",
+            "answer": "The duration of a panel upgrade depends on the complexity of the project, but it typically takes one to two days."
+          },
+          {
+            "question": "Do I need a permit for an electrical panel upgrade?",
+            "answer": "Yes, a permit is typically required for an electrical panel upgrade. We will handle the permit process for you."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-services",
+        "name": "Commercial Electrical Services",
+        "shortDescription": "Comprehensive electrical solutions for El Paso businesses.",
+        "description": "Dantex Electrical Contractors provides comprehensive commercial electrical services to businesses throughout El Paso. We understand the unique electrical needs of commercial properties, from office buildings and retail stores to restaurants and industrial facilities. El Paso's diverse business landscape, from the Downtown Arts District to industrial parks, requires adaptable electrical solutions.\n\nOur commercial services include electrical installation, repair, maintenance, and upgrades. We can handle everything from wiring and lighting to panel upgrades and generator installations. We also offer energy-efficient solutions to help you reduce your energy consumption and save money on your utility bills.\n\nWe work closely with business owners and property managers to ensure that all projects are completed on time and within budget. Our goal is to provide reliable and cost-effective electrical solutions that meet the specific needs of your business. Trust Dantex Electrical Contractors to power your business success in El Paso.",
+        "process": [
+          "Step 1: Consultation to discuss your commercial electrical needs.",
+          "Step 2: Development of a customized electrical plan.",
+          "Step 3: Professional installation, repair, or maintenance services.",
+          "Step 4: Ongoing support and maintenance as needed."
+        ],
+        "benefits": [
+          "Reliable and cost-effective solutions",
+          "Experienced and licensed electricians",
+          "Compliance with local codes and regulations",
+          "Minimal disruption to your business operations"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer emergency electrical services for businesses?",
+            "answer": "Yes, we offer 24/7 emergency electrical services for businesses in El Paso."
+          },
+          {
+            "question": "Can you help me with energy-efficient lighting upgrades for my business?",
+            "answer": "Absolutely! We can recommend and install energy-efficient lighting solutions to help you save money on your electricity bills."
+          },
+          {
+            "question": "Do you provide electrical services for restaurants?",
+            "answer": "Yes, we have experience providing electrical services for a variety of commercial properties, including restaurants."
+          }
+        ]
+      },
+      {
+        "slug": "generator-services",
+        "name": "Generator Services",
+        "shortDescription": "Keep your power on during outages with our generator services.",
+        "description": "Dantex Electrical Contractors offers generator installation, repair, and maintenance services to keep your home or business powered during outages in El Paso. Given El Paso's extreme weather conditions – from summer heatwaves to occasional winter storms – a reliable generator can be a lifesaver. We offer a wide range of generators to meet different needs and budgets, from portable generators to whole-house standby generators.\n\nOur experienced electricians can help you choose the right generator for your specific requirements and install it safely and efficiently. We also provide regular maintenance services to ensure that your generator is always ready when you need it. Don't get caught in the dark – protect your home or business with a generator from Dantex Electrical Contractors.",
+        "process": [
+          "Step 1: Consultation to determine your generator needs.",
+          "Step 2: Selection of the appropriate generator model.",
+          "Step 3: Professional installation by our licensed electricians.",
+          "Step 4: Regular maintenance and service as needed."
+        ],
+        "benefits": [
+          "Reliable backup power during outages",
+          "Protection for your home or business",
+          "Peace of mind knowing you're prepared",
+          "Professional installation and maintenance services"
+        ],
+        "faq": [
+          {
+            "question": "What size generator do I need?",
+            "answer": "The size of generator you need depends on the amount of power you require to run essential appliances and equipment during an outage. We can help you determine the appropriate size based on your specific needs."
+          },
+          {
+            "question": "Do you offer automatic standby generators?",
+            "answer": "Yes, we offer automatic standby generators that automatically turn on when the power goes out."
+          },
+          {
+            "question": "How often should I have my generator serviced?",
+            "answer": "We recommend having your generator serviced at least once a year to ensure it's in good working condition."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "El Paso",
+        "slug": "el-paso-tx",
+        "state": "TX",
+        "content": "Dantex Electrical Contractors is proud to serve the vibrant community of El Paso, Texas. As a leading provider of electrical services, we are committed to delivering reliable, safe, and efficient solutions for residential and commercial clients throughout the Sun City. From electrical repairs and installations to comprehensive system upgrades, our team of experienced and licensed electricians is equipped to handle any electrical project, big or small.\n\nWe understand the unique electrical needs of El Paso residents and businesses. Whether you're dealing with aging infrastructure in historic neighborhoods or require modern electrical solutions for new construction, Dantex Electrical Contractors has the expertise to meet your specific requirements. We prioritize customer satisfaction and strive to exceed expectations with every project we undertake, ensuring your electrical systems are functioning optimally and safely.",
+        "localContext": "El Paso, known for its rich culture and stunning desert landscapes, relies on dependable electrical services to power its homes and businesses.",
+        "nearbyAreas": [
+          "Socorro",
+          "Anthony",
+          "Canutillo"
+        ]
+      },
+      {
+        "city": "Socorro",
+        "slug": "socorro-tx",
+        "state": "TX",
+        "content": "Dantex Electrical Contractors extends its exceptional electrical services to the town of Socorro, Texas. We are dedicated to providing Socorro residents and businesses with top-quality electrical solutions tailored to their specific needs. Our team of skilled electricians is available for a wide range of services, including electrical repairs, installations, and maintenance.\n\nWe recognize the importance of reliable electrical systems in Socorro, whether it's powering homes or supporting local businesses. Dantex Electrical Contractors is committed to ensuring the safety and efficiency of your electrical infrastructure. We pride ourselves on our prompt response times, transparent pricing, and unwavering commitment to customer satisfaction.",
+        "localContext": "Socorro, a historic town with a strong sense of community, depends on reliable electrical services to maintain its charm and functionality.",
+        "nearbyAreas": [
+          "El Paso",
+          "Clint",
+          "Horizon City"
+        ]
+      },
+      {
+        "city": "Anthony",
+        "slug": "anthony-tx",
+        "state": "TX",
+        "content": "Dantex Electrical Contractors proudly serves the community of Anthony, Texas, offering a comprehensive range of electrical services to meet the needs of both residential and commercial clients. Our experienced electricians are dedicated to providing safe, reliable, and efficient solutions, ensuring your electrical systems are functioning optimally.\n\nWe understand the importance of having a trusted electrical contractor in Anthony. Whether you require electrical repairs, new installations, or routine maintenance, Dantex Electrical Contractors is committed to delivering exceptional service and exceeding your expectations. We prioritize customer satisfaction and strive to build long-lasting relationships with our clients.",
+        "localContext": "Anthony, a growing community with a mix of residential and commercial properties, relies on dependable electrical services for its daily operations.",
+        "nearbyAreas": [
+          "El Paso",
+          "Canutillo",
+          "Sunland Park"
+        ]
+      },
+      {
+        "city": "Canutillo",
+        "slug": "canutillo-tx",
+        "state": "TX",
+        "content": "Dantex Electrical Contractors is pleased to provide electrical services in Canutillo, Texas. We offer a full spectrum of electrical solutions designed to cater to the diverse needs of this community. From troubleshooting electrical issues to installing new lighting fixtures and upgrading electrical panels, our team of qualified electricians is here to help.\n\nWe are committed to delivering exceptional workmanship and ensuring the safety of your electrical systems in Canutillo. Dantex Electrical Contractors takes pride in its attention to detail, transparent communication, and dedication to customer satisfaction. We strive to be the electrical contractor you can rely on for all your electrical needs.",
+        "localContext": "Canutillo, a vibrant community with a blend of rural and suburban characteristics, requires reliable electrical services to support its growth and development.",
+        "nearbyAreas": [
+          "El Paso",
+          "Anthony",
+          "Vinton"
+        ]
+      },
+      {
+        "city": "Horizon City",
+        "slug": "horizon-city-tx",
+        "state": "TX",
+        "content": "Dantex Electrical Contractors extends its expert electrical services to Horizon City, Texas. We provide a wide array of electrical solutions for residential and commercial properties in this rapidly growing area. Our team of licensed and insured electricians is equipped to handle any electrical project, from minor repairs to major installations.\n\nWe understand the unique electrical needs of Horizon City, with its mix of new construction and established homes. Dantex Electrical Contractors is committed to delivering reliable and efficient electrical services that meet the highest safety standards. We prioritize customer satisfaction and strive to exceed expectations with every project we undertake.",
+        "localContext": "Horizon City, a rapidly expanding suburban community, depends on reliable electrical services to support its growing population and infrastructure.",
+        "nearbyAreas": [
+          "El Paso",
+          "Socorro",
+          "Clint"
+        ]
+      },
+      {
+        "city": "Clint",
+        "slug": "clint-tx",
+        "state": "TX",
+        "content": "Dantex Electrical Contractors is proud to offer its electrical services to the town of Clint, Texas. We understand the importance of reliable and safe electrical systems for both homes and businesses in this community. Our team of experienced electricians is dedicated to providing top-quality workmanship and exceptional customer service.\n\nWhether you need electrical repairs, new installations, or routine maintenance, Dantex Electrical Contractors is here to help. We are committed to ensuring the safety and efficiency of your electrical infrastructure in Clint. We pride ourselves on our prompt response times, transparent pricing, and unwavering commitment to customer satisfaction.",
+        "localContext": "Clint, a town with a rich agricultural history, relies on dependable electrical services to support its residents and businesses.",
+        "nearbyAreas": [
+          "El Paso",
+          "Socorro",
+          "Horizon City"
+        ]
+      },
+      {
+        "city": "San Elizario",
+        "slug": "san-elizario-tx",
+        "state": "TX",
+        "content": "Dantex Electrical Contractors is dedicated to providing San Elizario, Texas, with comprehensive electrical services. Our team of skilled and licensed electricians is committed to delivering reliable, safe, and efficient solutions for residential and commercial clients. We handle everything from minor repairs to complex installations.\n\nWe recognize the unique needs of San Elizario's historic and modern properties. Dantex Electrical Contractors strives to exceed expectations with every project, ensuring your electrical systems function optimally and safely. Our focus remains on customer satisfaction and building lasting relationships within the community.",
+        "localContext": "San Elizario, a town rich in history and culture, relies on reliable electrical services to preserve its heritage and support its community.",
+        "nearbyAreas": [
+          "El Paso",
+          "Socorro",
+          "Clint"
+        ]
+      },
+      {
+        "city": "Vinton",
+        "slug": "vinton-tx",
+        "state": "TX",
+        "content": "Dantex Electrical Contractors is pleased to serve Vinton, Texas, providing a wide range of electrical services to meet the needs of its residents and businesses. Our experienced electricians are committed to delivering safe, reliable, and efficient solutions, ensuring your electrical systems are functioning at their best.\n\nWe understand the importance of having a trusted electrical contractor in Vinton. Whether you require electrical repairs, new installations, or routine maintenance, Dantex Electrical Contractors is dedicated to providing exceptional service and exceeding your expectations. We value customer satisfaction and strive to build long-term relationships with our clients.",
+        "localContext": "Vinton, a growing community near El Paso, depends on quality electrical services to support its expanding residential and commercial sectors.",
+        "nearbyAreas": [
+          "El Paso",
+          "Anthony",
+          "Canutillo"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Electrical Panel Upgrade",
+        "text": "I had Dantex Electrical Contractors upgrade my electrical panel in my older home in Kern Place. They were professional, efficient, and explained everything clearly. I feel much safer now. Great service!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Lighting Installation",
+        "text": "Dantex installed new recessed lighting in my living room. The work was well done, and the electrician was very courteous. There was a small delay in getting the fixtures, but overall, a great experience.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Linda K.",
+        "rating": 5,
+        "service": "Electrical Repair",
+        "text": "I had a power outage in my home, and Dantex Electrical Contractors responded quickly. They diagnosed the problem and fixed it promptly. I highly recommend them for any electrical issues.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Commercial Electrical Services",
+        "text": "Dantex Electrical Contractors has been our go-to electrician for our restaurant for years. They are always reliable, professional, and provide quality work. We highly recommend them!",
+        "date": "2024-10-25"
+      },
+      {
+        "name": "Jessica M.",
+        "rating": 4,
+        "service": "Generator Installation",
+        "text": "We had Dantex install a whole-house generator. The installation process was smooth and professional. We feel so much better prepared for power outages now. Only downside was the paperwork at the end, but they were helpful resolving it.",
+        "date": "2024-11-18"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Electrical Installation",
+        "text": "Dantex wired our new home addition. They did an excellent job and were very detail-oriented. The work passed inspection with no issues. Very pleased with their service.",
+        "date": "2025-01-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Dantex Electrical Contractors | El Paso TX",
+        "description": "Reliable electrical services in El Paso. Licensed electricians for repairs, installations, and more. Call +19152078240!"
+      },
+      "about": {
+        "title": "About Dantex Electrical Contractors",
+        "description": "Learn about Dantex Electrical Contractors, El Paso's trusted electrician. Quality workmanship and reliable service since 2012."
+      },
+      "services": {
+        "title": "Electrical Services | El Paso TX",
+        "description": "Comprehensive electrical services in El Paso. Repairs, installations, panel upgrades, and more. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Dantex Electrical Contractors",
+        "description": "Contact Dantex Electrical Contractors for reliable electrical services in El Paso. Get a free estimate at +19152078240!"
+      },
+      "reviews": {
+        "title": "Dantex Electrical Contractors Reviews",
+        "description": "Read reviews for Dantex Electrical Contractors in El Paso. See what our satisfied customers are saying about our services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Dantex Electrical Contractors",
+        "description": "Dantex Electrical Contractors provides electrical services in El Paso and surrounding areas. Find out if we serve your location!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "electrical-repair": "/images/service-electrical-repair.webp",
+      "electrical-installation": "/images/service-electrical-installation.webp",
+      "lighting-services": "/images/service-lighting-services.webp",
+      "panel-upgrades": "/images/service-panel-upgrades.webp",
+      "commercial-services": "/images/service-commercial-services.webp",
+      "generator-services": "/images/service-generator-services.webp"
+    },
+    "servicesResponsive": {
+      "electrical-repair": {
+        "src": "/images/service-electrical-repair.webp",
+        "srcset": "/images/service-electrical-repair-400w.webp 400w, /images/service-electrical-repair-800w.webp 800w, /images/service-electrical-repair-1200w.webp 1200w, /images/service-electrical-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-installation": {
+        "src": "/images/service-electrical-installation.webp",
+        "srcset": "/images/service-electrical-installation-400w.webp 400w, /images/service-electrical-installation-800w.webp 800w, /images/service-electrical-installation-1200w.webp 1200w, /images/service-electrical-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-services": {
+        "src": "/images/service-lighting-services.webp",
+        "srcset": "/images/service-lighting-services-400w.webp 400w, /images/service-lighting-services-800w.webp 800w, /images/service-lighting-services-1200w.webp 1200w, /images/service-lighting-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "panel-upgrades": {
+        "src": "/images/service-panel-upgrades.webp",
+        "srcset": "/images/service-panel-upgrades-400w.webp 400w, /images/service-panel-upgrades-800w.webp 800w, /images/service-panel-upgrades-1200w.webp 1200w, /images/service-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-services": {
+        "src": "/images/service-commercial-services.webp",
+        "srcset": "/images/service-commercial-services-400w.webp 400w, /images/service-commercial-services-800w.webp 800w, /images/service-commercial-services-1200w.webp 1200w, /images/service-commercial-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "generator-services": {
+        "src": "/images/service-generator-services.webp",
+        "srcset": "/images/service-generator-services-400w.webp 400w, /images/service-generator-services-800w.webp 800w, /images/service-generator-services-1200w.webp 1200w, /images/service-generator-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
